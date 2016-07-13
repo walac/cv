@@ -1,0 +1,5 @@
+text=auto
+
+*.rst text
+Makefile text
+*.pdf binary
