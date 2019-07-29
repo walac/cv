@@ -1,30 +1,16 @@
 Wander Lairson Costa
-=======================================
+====================
+
 +--------------------------------------------------------------+
 | :Github: https://github.com/walac                            |
 | :Linkedin: https://www.linkedin.com/in/walac                 |
 | :Blog: https://walac.github.io                               |
 +--------------------------------------------------------------+
 
-:Interests: Artificial Intelligence, Compilers, Computer Graphics, Kernel Programming,
-            Algorithms, Computer Vision, Real Time Systems, Applied Mathematics,
-            Software Optimization, Parallel Systems, Finance.
-
-Technical skills
-----------------
-
-:Operating Systems: Unix/Linux, Windows.
-
-:Coding: C, C++, Assembly (Z80, 8051, ARM 9, Pic, x86/x86_64), Python, Shell Script, Javascript, Mathematica_. 
-
-:Tools: Subversion, Git, CMake, Trac, SCons, Mercurial.
-
-:Processors: ARM, x86, x86_64, 8051, Pic and Z80.
-
 Professional Experience
 -----------------------
 
-:2014 - current: Software Engineer - Mozilla Corporation
+:2014 - current: Senior Software Engineer - Mozilla Corporation
 
     * Enable B2G profiler to use google-breakpad_
       symbols and the
@@ -42,6 +28,16 @@ Professional Experience
       browser same origin policy.
 
     * Build a status dashboard for Taskcluster and dependent services realtime healthy update.
+
+    * Cross compile Firefox for macOS in the CI build system.
+
+    * Migrate the Firefox automation from `BuildBot <https://buildbot.net/>`_ to Taskcluster_.
+
+    * Improve and maintain the `docker-worker <https://github.com/taskcluster/docker-worker>`_ component.
+
+    * Deploy Taskcluster_ in `packet <https://packet.net>`_ and `GCP <https://cloud.google.com>`_ cloud providers.
+
+    * Random patches for other components wrote in nodejs and golang.
 
 :2010 - 2014: Senior Software Engineer - International Gaming Solutions
 
