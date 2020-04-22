@@ -1,51 +1,40 @@
 Wander Lairson Costa
 ====================
 
-+--------------------------------------------------------------+
-| :Github: https://github.com/walac                            |
-| :Linkedin: https://www.linkedin.com/in/walac                 |
-| :Blog: https://walac.github.io                               |
-+--------------------------------------------------------------+
++--------------------------------------------------+
+| :Github: https://github.com/walac                |
+| :Linkedin: https://www.linkedin.com/in/walac     |
+| :Blog: https://walac.github.io                   |
++--------------------------------------------------+
 
 Professional Experience
 -----------------------
 
-:2014 - current: Senior Software Engineer - Mozilla Corporation
+:2014 - 2020: Senior Software Engineer - Mozilla Corporation
 
-    * Enable B2G profiler to use google-breakpad_
-      symbols and the
-      `symbolication server <https://github.com/vdjeric/Snappy-Symbolication-Server/>`_.
+    * Worked on the ``Firefox OS`` project, responsible for coding tooling, CI builds
+      and server side system updates. The work was mostly done in ``Python``, ``Shell script``
+      and ``C++``. Some projects include:
 
-    * Enable Taskcluster_ to build B2G phone images.
+       * Enable B2G profiler to use google-breakpad_ symbols and the
+         `symbolication server <https://github.com/vdjeric/Snappy-Symbolication-Server/>`_.
+       * Enable Taskcluster_ to build ``Firefox OS`` phone images.
+       * Provide build and remote updates for the `Spark Project <http://tinyurl.com/p7x67sl>`_.
 
-    * Provide build and remote updates for the `Spark Project <http://tinyurl.com/p7x67sl>`_.
-
-    * Implement an engine to run Firefox tests in MacOSX.
-
-    * Implement S3 artifact upload retry in Taskcluster docker-worker component.
-
-    * Deploy a `cors-proxy <https://github.com/taskcluster/cors-proxy>`_ service to overcome
-      browser same origin policy.
-
-    * Build a status dashboard for Taskcluster and dependent services realtime healthy update.
-
-    * Cross compile Firefox for macOS in the CI build system.
-
-    * Migrate the Firefox automation from `BuildBot <https://buildbot.net/>`_ to Taskcluster_.
-
-    * Improve and maintain the `docker-worker <https://github.com/taskcluster/docker-worker>`_ component.
-
-    * Deploy Taskcluster_ in `packet <https://packet.net>`_ and `GCP <https://cloud.google.com>`_ cloud providers.
-
-    * Random patches for other components wrote in nodejs and golang.
+    * Part of the Taskcluster_ project team, mainly responsible as the maintainer of the
+      `docker-worker <https://github.com/taskcluster/docker-worker>`_ component, which
+      enables Taskcluster_ to run tasks in a containerized environment.
+      I worked mainly with ``nodejs`` and ``Golang`` programming languages. Other languages
+      used include ``Python`` and ``Rust``. The daily work was to implement new features for the project,
+      along debugging and fixing bugs inside the ``AWS`` and ``Google Cloud`` environments.
 
 :2010 - 2014: Senior Software Engineer - International Gaming Solutions
 
     * Port and optimization of a company internal 2D graphics library.
-      It was used SDL and related libraries (like SDL_image, SDL_mixer and
-      SDL_gfx) for the port. For GPU based boards, the graphics drawing
+      It was used ``SDL`` and related libraries (like ``SDL_image``, ``SDL_mixer`` and
+      ``SDL_gfx``) for the port. For GPU based boards, the graphics drawing
       primitives were implemented with OpenGL.
-      Work on optimizations involved taking vantage of SIMD instructions
+      Work on optimizations involved taking vantage of ``SIMD`` instructions
       in hot spots, fixing cache and overall memory usage and algorithms
       improvement. The library is aimed to run in x86_32/x86_64
       embedded hardware with a custom Linux distribution.
@@ -55,7 +44,7 @@ Professional Experience
 
     * Patches for Blender_ project to enable Blender_ to run on the company custom
       boards. The patches include support for dual monitor with SDL2 backend
-      and fixes for race conditions in Blender sound module. The patches can
+      and fixes for race conditions in Blender_ sound module. The patches can
       be found on the Blender_ issue tracker.
 
     * Development of a SDK for the company game programmers. The SDK included
@@ -64,7 +53,7 @@ Professional Experience
     * `Git <http://git-scm.com/>`_ server administration, developers
       coaching and support.
 
-    * Implementation of a C++ library for communication with a dedicated server
+    * Implementation of a ``C++`` library for communication with a dedicated server
       using `boost.asio <http://think-async.com/>`_.
 
 :2008 - 2010: Software Engineer - Samsung Eletronics.
@@ -74,8 +63,8 @@ Professional Experience
 
     * Development of a firmware upgrade software to run inside the TVs.
       The software role was to upgrade the firmware of the remote control
-      microcontroller through I2C channel. The work was done by shutting
-      down the I2C driver in Linux Kernel, reprogram the I2C controller
+      microcontroller through ``I2C`` channel. The work was done by shutting
+      down the ``I2C`` driver in ``Linux Kernel``, reprogram the ``I2C`` controller
       and implementing the flash programming protocol reversed engineered
       from the chip vendor software.
 
@@ -87,7 +76,7 @@ Professional Experience
       layout to improve instruction cache usage. The optimizations done
       were implemented on all worldwide Samsung TVs up to Series 6.
 
-    * Patch for Linux Kernel scheduler to add a new *true idle* schedule class.
+    * Patch for ``Linux Kernel`` scheduler to add a new *true idle* schedule class.
       This patch was a proof of concept to add tasks that run only when the
       system was about to run the *idle task*.
 
@@ -110,8 +99,8 @@ Professional Experience
       client software to communicate directly to the printer.
 
     * Design and development of a real time kernel to run on printer boards
-      for STR ARM9 processor. The kernel was written at most in C and some
-      specific parts in Assembly, using the Keil compiler. The RTOS supported
+      for STR ``ARM9`` processor. The kernel was written at most in ``C`` and some
+      specific parts in Assembly, using the Keil compiler. The ``RTOS`` supported
       mutexes with priority inversion avoidance through priority inheritance
       protocol, semaphores, ring buffers, fixed memory pools and an O(1)
       priority based scheduler.
@@ -121,27 +110,27 @@ Professional Experience
 
 :2002 - 2003: Software Developer -  Gennari & Peartree
 
-    * MTS and COM+ components for Internet Banking running in one of the biggest
+    * ``MTS`` and ``COM+`` components for Internet Banking running in one of the biggest
       banks in Brazil.
 
     * Development of the server part of an insurance system running on HP-UX.
-      Developed in C and Sybase.
+      Developed in ``C`` and ``Sybase``.
 
-    * Implementation of a Windows COM component to monitor filesystem changes.
+    * Implementation of a Windows ``COM`` component to monitor filesystem changes.
 
 :2000 - 2002: Electronic Technician - CTF Technologies do Brazil
 
-    * Assembly written firmware for a radio frequency based tracking system, using the
-      8051 microcontroller to monitor over 100 trucks using statistical
+    * ``Assembly`` written firmware for a radio frequency based tracking system, using the
+      ``8051`` microcontroller to monitor over 100 trucks using statistical
       signal collision avoidance.
 
-    * Kernel Device Driver and user mode API for a fingerprint scanner targeted for
+    * ``Kernel`` device driver and user mode API for a fingerprint scanner targeted for
       Windows NT 4.0 and Windows 2000.
 
     * Development of an Windows COM component to access
       `TWAIN <http://www.twain.org/>`_ based document scanners.
 
-    * Development of an API to access iButton PROM devices through serial port.
+    * Development of an API to access ``iButton`` PROM devices through serial port.
 
     * Hardware design and development.
 
@@ -151,7 +140,7 @@ Professional Experience
 
 :1997 - 1999: Electronic Technician Trainee - VK Driller
 
-    * Repair boards based on Z80, PIC and Motorola
+    * Repair boards based on ``Z80``, ``PIC`` and Motorola
       microprocessors/microcontrollers for medical equipments.
 
 Education
@@ -188,7 +177,5 @@ Complexity. doi: 10.1002/cplx.21686.
 
 .. _Blender: http://blender.org
 .. _PyUSB: http://pyusb.sourceforge.net
-.. _Mathematica: http://www.wolfram.com/mathematica/
-.. _cmake: http://cmake.org/
 .. _google-breakpad: https://code.google.com/p/google-breakpad/
-.. _Taskcluster: https://docs.taskcluster.net
+.. _Taskcluster: https://github.com/taskcluster/taskcluster
