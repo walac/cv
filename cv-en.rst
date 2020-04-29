@@ -26,7 +26,15 @@ Professional Experience
       enables Taskcluster_ to run tasks in a containerized environment.
       I worked mainly with ``nodejs`` and ``Golang`` programming languages. Other languages
       used include ``Python`` and ``Rust``. The daily work was to implement new features for the project,
-      along debugging and fixing bugs inside the ``AWS`` and ``Google Cloud`` environments.
+      along debugging and fixing bugs inside the ``AWS`` and ``Google Cloud`` environments. Notable projects
+      include:
+
+       * Cross build ``Firefox`` ``macOS`` version in a docker container.
+       * Support Taskcluster_ running jobs in the `packet.net <https://packet.net>`_
+         cloud environment. This also included using ``qemu`` virtualization environment
+         to `test custom images <https://walac.github.io/booting-packet-images-qemu/>`_.
+       * Migrate mobile tests to AWS EC2 baremetal machines, accelerating task times.
+       * Develop a macOS backend to run ``Firefox`` tests.
 
 :2010 - 2014: Senior Software Engineer - International Gaming Solutions
 
