@@ -183,7 +183,19 @@ De Oliveira, P. P. B., Ruivo, E. L. P., Costa, W. L., Miki, F. T. and Trafaniuc,
 Advances in the Study of Elementary Cellular Automata Regular Language Complexity.
 Complexity. doi: 10.1002/cplx.21686.
 
+Extra curricular courses:
+-------------------------
+
+* Industrial Electronics - SENAI
+* Applied Mathematics - `Prandiano <https://www.prandiano.com.br>`_
+* Introduction to Computer Vision - São Paulo University
+* Introduction to Complexity - Santa Fe University
+* Algorithms Part I and II - Princeton University/Coursera
+* Algorithms Design and Analysis, Part 1 - Stanford University/Coursera
+* Compilers - Stanford Online
+* Introduction to Networking - Stanford Online
+
 .. _Blender: http://blender.org
-.. _PyUSB: http://pyusb.sourceforge.net
+.. _PyUSB: http://github.com/pyusb/pyusb
 .. _google-breakpad: https://code.google.com/p/google-breakpad/
 .. _Taskcluster: https://github.com/taskcluster/taskcluster
