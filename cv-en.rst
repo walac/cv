@@ -10,6 +10,18 @@ Wander Lairson Costa
 Professional Experience
 -----------------------
 
+:2020 - Present: Senior Developer - Expertise Solutions Cons em Inf
+    * Technical lead and mentorship of the engineering team.
+    * Worked on porting EFL_ to Windows. EFL_ is a portable C toolkit to build
+      rich graphical applications and is the foundation of the Tizen_ OS.
+      All development done with C language and meson.
+    * Make DALi_ library on Windows stable. The project involved fixing bugs
+      and crashes on several code bases. All development done in C++. DALi_
+      is a C++ toolkit to build 3D graphical interfaces for Tizen.
+    * Port DALi_ to run on macOS. This was a ground up project to port the DALi_
+      library to the macOS Operating System. It was developed using
+      C++/Objective C++ and cmake.
+
 :2014 - 2020: Senior Software Engineer - Mozilla Corporation
 
     * Worked on the ``Firefox OS`` project, responsible for coding tooling, CI builds
@@ -199,3 +211,6 @@ Extra curricular courses:
 .. _PyUSB: http://github.com/pyusb/pyusb
 .. _google-breakpad: https://code.google.com/p/google-breakpad/
 .. _Taskcluster: https://github.com/taskcluster/taskcluster
+.. _EFL: https://www.enlightenment.org/about-efl
+.. _Tizen: https://www.tizen.org
+.. _DALi: https://docs.tizen.org/application/native/guides/ui/dali/
