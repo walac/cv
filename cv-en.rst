@@ -11,6 +11,7 @@ Professional Experience
 -----------------------
 
 :2020 - Present: Senior Developer - Expertise Solutions Cons em Inf
+
     * Technical lead and mentorship of the engineering team.
     * Worked on porting EFL_ to Windows. EFL_ is a portable C toolkit to build
       rich graphical applications and is the foundation of the Tizen_ OS.
