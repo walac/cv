@@ -10,7 +10,7 @@ Wander Lairson Costa
 Professional Experience
 -----------------------
 
-:2020 - Present: Senior Developer - Expertise Solutions Cons em Inf
+:05/2020 - Present: Senior Developer - Expertise Solutions Cons em Inf
 
     * Technical lead and mentorship of the engineering team.
     * Worked on porting EFL_ to Windows. EFL_ is a portable C toolkit to build
@@ -23,11 +23,11 @@ Professional Experience
       library to the macOS Operating System. It was developed using
       C++/Objective C++ and cmake.
     * Development of a Visual Studio `plugin <https://github.com/walac/NUIPreview>`_
-      to preview `NUI <https://docs.tizen.org/application/dotnet/guides/nui/overview/>_`
+      to preview `NUI <https://docs.tizen.org/application/dotnet/guides/nui/overview/>`_
       graphical interfaces from
       `XAML <https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language>`_ files.
 
-:2014 - 2020: Senior Software Engineer - Mozilla Corporation
+:07/2014 - 05/2020: Senior Software Engineer - Mozilla Corporation
 
     * Worked on the ``Firefox OS`` project, responsible for coding tooling, CI builds
       and server side system updates. The work was mostly done in ``Python``, ``Shell script``
@@ -53,7 +53,7 @@ Professional Experience
        * Migrate mobile tests to AWS EC2 baremetal machines, accelerating task times.
        * Develop a macOS backend to run ``Firefox`` tests.
 
-:2010 - 2014: Senior Software Engineer - International Gaming Solutions
+:06/2010 - 07/2014: Senior Software Engineer - International Gaming Solutions
 
     * Port and optimization of a company internal 2D graphics library.
       It was used ``SDL`` and related libraries (like ``SDL_image``, ``SDL_mixer`` and
@@ -81,7 +81,7 @@ Professional Experience
     * Implementation of a ``C++`` library for communication with a dedicated server
       using `boost.asio <http://think-async.com/>`_.
 
-:2008 - 2010: Software Engineer - Samsung Eletronics.
+:10/2008 - 06/2010: Software Engineer - Samsung Eletronics.
 
     * Brazil TV software integrator and releaser during projects
       of the 2009 and 2010 Samsung TV lineups on Head Quarters in Korea.
@@ -111,7 +111,7 @@ Professional Experience
 
     * Implementation of TV widgets using AJAX for Brazilian market.
 
-:2003 - 2008: Computer Engineer - Software Technology Institute (ITS).
+:06/2003 - 09/2008: Computer Engineer - Software Technology Institute (ITS).
 
     * Development of printer and scanner user mode drivers for Windows
       and Linux. The products were deployed in Diebold ATMs running
@@ -133,7 +133,7 @@ Professional Experience
     * `Subversion <http://subversion.tigris.org/>`_ and
       `Trac <http://trac.edgewall.org/>`_ servers administration.
 
-:2002 - 2003: Software Developer -  Gennari & Peartree
+:02/2002 - 04/2003: Software Developer -  Gennari & Peartree
 
     * ``MTS`` and ``COM+`` components for Internet Banking running in one of the biggest
       banks in Brazil.
@@ -143,7 +143,7 @@ Professional Experience
 
     * Implementation of a Windows ``COM`` component to monitor filesystem changes.
 
-:2000 - 2002: Electronic Technician - CTF Technologies do Brazil
+:05/2000 - 02/2002: Electronic Technician - CTF Technologies do Brazil
 
     * ``Assembly`` written firmware for a radio frequency based tracking system, using the
       ``8051`` microcontroller to monitor over 100 trucks using statistical
@@ -159,11 +159,11 @@ Professional Experience
 
     * Hardware design and development.
 
-:1999 - 2000: Electronic Technician Trainee - Videolar
+:09/1999 - 02/2000: Electronic Technician Trainee - Videolar
 
     * Repair professional video recorder machines.
 
-:1997 - 1999: Electronic Technician Trainee - VK Driller
+:05/1998 - 09/1999: Electronic Technician Trainee - VK Driller
 
     * Repair boards based on ``Z80``, ``PIC`` and Motorola
       microprocessors/microcontrollers for medical equipments.
