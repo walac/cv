@@ -22,6 +22,10 @@ Professional Experience
     * Port DALi_ to run on macOS. This was a ground up project to port the DALi_
       library to the macOS Operating System. It was developed using
       C++/Objective C++ and cmake.
+    * Development of a Visual Studio `plugin <https://github.com/walac/NUIPreview>`_
+      to preview `NUI <https://docs.tizen.org/application/dotnet/guides/nui/overview/>_`
+      graphical interfaces from
+      `XAML <https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language>`_ files.
 
 :2014 - 2020: Senior Software Engineer - Mozilla Corporation
 
@@ -35,7 +39,7 @@ Professional Experience
        * Provide build and remote updates for the `Spark Project <http://tinyurl.com/p7x67sl>`_.
 
     * Part of the Taskcluster_ project team, mainly responsible as the maintainer of the
-      `docker-worker <https://github.com/taskcluster/docker-worker>`_ component, which
+      `docker-worker <https://github.com/walac/docker-worker>`_ component, which
       enables Taskcluster_ to run tasks in a containerized environment.
       I worked mainly with ``nodejs`` and ``Golang`` programming languages. Other languages
       used include ``Python`` and ``Rust``. The daily work was to implement new features for the project,
