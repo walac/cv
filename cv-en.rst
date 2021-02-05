@@ -5,6 +5,7 @@ Wander Lairson Costa
 | :Github: https://github.com/walac                |
 | :Linkedin: https://www.linkedin.com/in/walac     |
 | :Blog: https://walac.github.io                   |
+| :email: wander dot lairson at gmail dot com      |
 +--------------------------------------------------+
 
 Professional Experience
