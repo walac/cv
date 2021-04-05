@@ -11,6 +11,9 @@ Wander Lairson Costa
 Professional Experience
 -----------------------
 
+:04/2021 - present: Senior Software Engineer - Red Hat, Inc
+    * Linux Kernel engineering
+
 :05/2020 - 02/2021: Senior Developer - Expertise Solutions Cons em Inf
 
     * Technical lead and mentorship of the engineering team.
