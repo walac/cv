@@ -3,16 +3,22 @@ Wander Lairson Costa
 
 +--------------------------------------------------+
 | :Github: https://github.com/walac                |
+| :Gitlab: https://gitlab.com/walac                |
 | :Linkedin: https://www.linkedin.com/in/walac     |
 | :Blog: https://walac.github.io                   |
-| :email: wander dot lairson at gmail dot com      |
+| :email: wander d07 lairson 4t gmail d07 com      |
 +--------------------------------------------------+
 
 Professional Experience
 -----------------------
 
 :04/2021 - present: Senior Software Engineer - Red Hat, Inc
-    * Linux Kernel engineering
+
+    * Backport to RHEL_ kernel patches to fix CVEs.
+    * Debug and fix issues in the realtime kernel.
+    * Review patches for RHEL_ and upstream kernel.
+    * Port the Intel TDX_ technology to the RHEL_ kernel.
+    * Analyse and propose solutions for open CVEs.
 
 :05/2020 - 02/2021: Senior Developer - Expertise Solutions Cons em Inf
 
@@ -209,12 +215,10 @@ Extra curricular courses:
 
 * Industrial Electronics - SENAI
 * Applied Mathematics - `Prandiano <https://www.prandiano.com.br>`_
-* Introduction to Computer Vision - São Paulo University
-* Introduction to Complexity - Santa Fe University
-* Algorithms Part I and II - Princeton University/Coursera
-* Algorithms Design and Analysis, Part 1 - Stanford University/Coursera
 * Compilers - Stanford Online
-* Introduction to Networking - Stanford Online
+* Introduction to Computer Networks - Stanford Online
+* Mathematical Thinking in Computer Science - Coursera
+* Combinatorics and Probability - Coursera
 
 .. _Blender: http://blender.org
 .. _PyUSB: http://github.com/pyusb/pyusb
@@ -223,3 +227,5 @@ Extra curricular courses:
 .. _EFL: https://www.enlightenment.org/about-efl
 .. _Tizen: https://www.tizen.org
 .. _DALi: https://docs.tizen.org/application/native/guides/ui/dali/
+.. _TDX: https://www.intel.com/content/www/us/en/developer/articles/technical/intel-trust-domain-extensions.html
+.. _RHEL: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
