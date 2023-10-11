@@ -19,7 +19,9 @@ Professional Experience
     * Review patches for RHEL_ and upstream kernel.
     * Port the Intel TDX_ technology to the RHEL_ kernel.
     * Analyse and propose solutions for open CVEs.
-    * Contributions to the upstream kernel.
+    * Development of a tool to scan upstream commits for potential security fixes.
+    * Mentor new members of the team.
+    * `Contributions <https://is.gd/mJNkO0>`_ to the upstream kernel.
 
 :05/2020 - 02/2021: Senior Developer - Expertise Solutions Cons em Inf
 
