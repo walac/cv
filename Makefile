@@ -1,19 +1,9 @@
-TARGETS = $(patsubst %.rst,%.pdf,$(shell ls *.rst))
-TARGETS += $(patsubst %.rst,%.html,$(shell ls *.rst))
-TARGETS += $(patsubst %.rst,%.txt,$(shell ls *.rst))
+all: cv-en.pdf
 
-%.pdf: %.rst
-	rst2pdf $< -o $@
-
-%.html: %.rst
-	rst2html $< > $@
-
-%.txt: %.html
-	links $< -dump | sed -e 's/\s\+$$//' > $@
-
-all: $(TARGETS)
+cv-en.pdf: cv-en.md
+	pandoc --from gfm --to pdf $< -o $@
 
 clean:
-	@rm -f $(TARGETS)
+	@rm -f cv-en.pdf
 
 .PHONY: clean
